@@ -1,2 +1,3 @@
-# atomic-status
-Status informations for Atomic Picnic
+## Atomic Status
+
+[status.json](/status.json)
